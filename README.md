@@ -1,5 +1,15 @@
-### Hi there 👋
+💫 About Me:
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
 
+👯 I’m looking to collaborate on:
+Fullstack projects
+
+🌱 I’m currently learning:
+Advanced AWS Services and GraphQL.
+
+💬 Ask me about:
+JavaScript, React, Nextjs and any general software development questions.
 <!--
 **Jagdishsinghdhami/Jagdishsinghdhami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
