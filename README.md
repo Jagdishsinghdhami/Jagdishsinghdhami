@@ -1,4 +1,6 @@
-### Hi there 👋, I am Jagdish Singh Dhami
+<h1 align="center">Hi 👋, I'm Nikhil Deshwani</h1>
+<h3 align="center">A passionate Frontend Developer with good technical skill and ability to perform well in the team. Passionate about coding and learning new skills</h3>
+
 [![GitHub Jagdishsingh](https://img.shields.io/github/followers/Jagdishsinghdhami?label=follow&style=social)](https://github.com/Jagdishsinghdhami)
 [![Linkedin: Jagdishdhami](https://img.shields.io/badge/-Jagdish%20Dhami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jagdishsinghdhami/)](https://www.linkedin.com/in/jagdishsinghdhami/)
 [![Twitter: JagdishDhami](https://img.shields.io/twitter/follow/JagdishDhami?style=social)](https://twitter.com/Jazz_dhamii)
